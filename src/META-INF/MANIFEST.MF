@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot CLI
+Implementation-Version: 2.0.0.BUILD-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: bamboo
+Start-Class: org.springframework.boot.cli.SpringCli
+Implementation-Vendor-Id: org.springframework.boot
+Class-Loader: groovy.lang.GroovyClassLoader
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_121
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+
